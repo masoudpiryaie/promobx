@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('../assets/fonts/iranyekan.woff') format('woff'),
+         url('../assets/fonts/iranyekan.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
